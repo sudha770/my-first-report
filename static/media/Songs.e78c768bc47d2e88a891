@@ -1,0 +1,16 @@
+mport React from "react";
+
+function Songs() {
+  return (
+    <div style={{ textAlign: "center", padding: "50px" }}>
+      <h2>🎵 My Songs</h2>
+      <ul>
+        <li>Song 1</li>
+        <li>Song 2</li>
+        <li>Song 3</li>
+      </ul>
+    </div>
+  );
+}
+
+export default Songs;

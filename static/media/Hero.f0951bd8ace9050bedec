@@ -1,0 +1,13 @@
+import React from "react";
+
+function Hero() {
+  return (
+    <div style={{ textAlign: "center", padding: "50px", background: "#222", color: "#fff" }}>
+      <h1>🎤 Welcome to My Music World</h1>
+      <p>Listen to my latest album now!</p>
+      <button style={{ padding: "10px 20px", fontSize: "16px", cursor: "pointer" }}>Listen Now</button>
+    </div>
+  );
+}
+
+export default Hero;

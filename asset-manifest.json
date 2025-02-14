@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/singer-website/static/css/main.9fe40f7c.css",
+    "main.js": "/singer-website/static/js/main.d73433b4.js",
+    "index.html": "/singer-website/index.html",
+    "static/media/Hero": "/singer-website/static/media/Hero.f0951bd8ace9050bedec",
+    "static/media/Songs": "/singer-website/static/media/Songs.e78c768bc47d2e88a891",
+    "static/media/Footer": "/singer-website/static/media/Footer.12cca28deb1a10b0d65f",
+    "static/media/Header": "/singer-website/static/media/Header.4f68fd9c8e53815dddb2",
+    "main.9fe40f7c.css.map": "/singer-website/static/css/main.9fe40f7c.css.map",
+    "main.d73433b4.js.map": "/singer-website/static/js/main.d73433b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.d73433b4.js"
+  ]
+}
